@@ -10,5 +10,5 @@ function yof($s)
 	return $t->parse($s);
 }
 
-
-echo(yof("Я люблю веревки с медом!\n"));
+$f = file_get_contents("php://stdin");
+echo(yof($f));

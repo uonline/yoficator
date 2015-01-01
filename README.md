@@ -8,7 +8,7 @@ Original: [https://code.google.com/p/php-yoficator/](https://code.google.com/p/p
 
 ## Генеральный план
 
-1. Написать скрипт на PHP, который читает текст из stdin, ёфицирует и выдаёт на stdout.
+1. ~~Написать скрипт на PHP, который читает текст из stdin, ёфицирует и выдаёт на stdout.~~
 2. Написать к нему обёртку на CoffeeScript.
 3. Обложить обёртку тестами.
 4. Переписать реализацию на CoffeeScript.
